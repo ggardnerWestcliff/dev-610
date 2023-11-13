@@ -1,0 +1,12 @@
+import java.util.*;
+
+/* My program
+by Suzy Student */
+public class Program {
+    public static /* Two comments on */ void main(String[] args) /* one line */ {
+        System.out.println("Hello, world!"); // a println
+    }
+    public static /* Hello there */ void foo() { // There is an extra comment here.
+        System.out.println("Goodbye!"); // comment here
+    } /* */
+}

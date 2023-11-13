@@ -1,0 +1,3 @@
+This is a test file for the double space method.
+It should create a new file called doubleSpaceOutput.txt with an blank line between each line of text.
+The method can handle lines with integers, like `2`, or strings like `Hello World!`.
